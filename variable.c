@@ -4,6 +4,9 @@ such as printf()*/
 
 //variables is container that store values
 
+
+// variable is the name of memory location which stores some data.
+
 #include<stdio.h>
 int main()
     {
@@ -15,6 +18,11 @@ int main()
             sum=number1+number2;
 
             printf("sum is %d\n",sum);
+
+            //integer values 
+            //float values
+            //char values
+            //constants values
 
                 return 0;
 
