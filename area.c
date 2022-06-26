@@ -1,5 +1,5 @@
-//area of square
-//1. Write a program to calculate area of a square
+//area of Rectangle
+//1. Write a program to calculate area of a Rectangle
 
 #include<stdio.h>
 int main()
