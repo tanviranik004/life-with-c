@@ -8,7 +8,7 @@ int main()
     printf("Enter the value of length: ");
     scanf("%f",&length);
     area = length * length ;
-    printf("Area of Rectangle : %f", area);
+    printf("Area of square : %f", area);
     return 0;
 
 }
