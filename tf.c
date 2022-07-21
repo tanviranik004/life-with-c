@@ -11,6 +11,11 @@ c.if a number is greater than 9 & less then 100 ->true
 #include <stdio.h>
 int main()
 {
+
+    // int isSunday=1;
+    // int isSnowing=1;
+    // printf("%d",isSunday&& isSnowing);
+    // return 0;
     int isSunday ,isSnowing;
     
     printf("Enter isSunday: ");
@@ -24,5 +29,7 @@ int main()
         printf("That is false.");
     }
     return 0;
+
+    
 
 }
