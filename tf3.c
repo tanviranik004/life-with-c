@@ -15,5 +15,6 @@ int main()
     //     printf("False");
     // }
     printf("%d\n",number >9 && number <100);
+    return 0;
     
 }
