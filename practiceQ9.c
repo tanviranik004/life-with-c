@@ -14,5 +14,8 @@ int main() {
     else{
         printf("Wrong Number");
     }
+
+   // marks <=30 ? printf("Fail\n"): printf("Pass\n");
+
     return 0;
 }
